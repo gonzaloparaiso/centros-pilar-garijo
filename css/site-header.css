@@ -16,8 +16,9 @@
   --pgh-deep-ink: #F4ECDB;
   --pgh-wa:       #1FA855;
   --pgh-wa-d:     #128C42;
-  --pgh-serif: "Newsreader", Georgia, serif;
-  --pgh-sans:  "Hanken Grotesk", system-ui, sans-serif;
+  --pgh-serif: "Season Sans", system-ui, sans-serif;
+  --pgh-sans:  "Season Sans", system-ui, sans-serif;
+  --pgh-label: "GT Pressura", system-ui, sans-serif;
 }
 
 /* ---------- Botones del header ---------- */
